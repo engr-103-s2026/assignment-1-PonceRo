@@ -1,23 +1,26 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. Roberto Ponce
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. I have some experince programming through slight experiementing with C# in Unity, but nothing big. 
+However I have much more experience using visual scripting systems, espcially in a game known as Rec Room where it provides a visual scripting system based off C# to create games, which I have used for years.
+A long time ago I also tried to learn a bit off C++ through a 6 hour youtube tutorial with a friend, but never learned much.
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. I only have a slight experince writing in C++ through a a 6 hour tutorial I watched with a friend a long time ago, however I do not remember much of it at all.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. Learning to solve computational problems could benefit engineers as much of there work is computational, so knowing a good strategy to get this kind of work done will serve you well in the future, and it will improve problem solving skils in general. 
+As for being able to write programs, engineers regradless of field will most likely have to do something that requires some amount of pragramming. Even then, programming can be used to make hard tasks much easier.
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. I do think that being able to solve computational problems and write programs could benefit you in everyday life as it will improve your critical thinking skills and problem solving in general, which can be applied to many different things than just programming or engineering.
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. Personally for me, computer graphics seems like it would be an intresting section as a lot of us seems to ignore just how the computer makes that appear on the screen and how we got from this terminal to much more diverse screens.
